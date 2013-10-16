@@ -1,6 +1,11 @@
 #! /usr/bin/env python
 
-
+#
+# Identifies parallel vectors for previously identified unit cell vectors - use these to refine 
+# original estimeted vectors
+#
+#
+#
 
 ### imports
 
