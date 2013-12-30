@@ -1,6 +1,6 @@
 microED
 =======
-Programs used for determination of lysozyme structure in Shi et al. (2013) MicroED - Three dimensional electron crystallography of protein microcrystals. eLife (in press)
+Programs used for determination of lysozyme structure in Shi et al. (2013) eLife 2013;2:e01345.
 
 These programs are under heavy development.  If you plan on using them you are encouraged to contact the gonenlab (gonent@janelia.hhmi.org) or visit http://cryoem.janelia.org.
 
